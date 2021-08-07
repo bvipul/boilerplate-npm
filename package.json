@@ -5,6 +5,7 @@
 	},
 	"main": "server.js",
 	"author": "bvipul",
+	"description": "A project that does something awesome",
 	"scripts": {
 		"start": "node server.js"
 	},
