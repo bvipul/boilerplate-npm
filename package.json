@@ -7,6 +7,7 @@
 	"author": "bvipul",
 	"description": "A project that does something awesome",
 	"keywords": [ "freecodecamp", "related", "words" ],
+	"license": "MIT",
 	"scripts": {
 		"start": "node server.js"
 	},
